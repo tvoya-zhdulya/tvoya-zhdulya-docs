@@ -1,0 +1,3 @@
+[submodule "tvoya-zhdulya-app"]
+	path = tvoya-zhdulya-app
+	url = https://github.com/tvoya-zhdulya/tvoya-zhdulya-app
