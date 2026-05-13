@@ -38,4 +38,5 @@
 
 ### 3. Диаграмма Use Case 
 
-![alt](https://github.com/tvoya-zhdulya/tvoya-zhdulya-docs/blob/main/images/use.png)
+![alt](https://github.com/tvoya-zhdulya/tvoya-zhdulya-docs/raw/main/images/use.png)
+
